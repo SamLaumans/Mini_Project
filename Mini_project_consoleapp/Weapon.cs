@@ -4,10 +4,10 @@ public class Weapon
     public string Name;
     public int Attack;
 
-    public Monster(int id, string name, int Attack)
+    public Weapon(int id, string name, int attack)
     {
         Id = id;
         Name = name;
-        Attack = Attack;
+        Attack = attack;
     }
 }

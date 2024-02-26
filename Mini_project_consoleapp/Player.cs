@@ -3,15 +3,15 @@ public class Player
     public int CurrentLocation ;
     public string Name ;
     public int CurrentWeapon ;
-    public int Attack ;
-    public int Defense ;
+    public int MaxHealth ;
+    public int CurrentHealth ;
 
-    public Player(int CurrentLocation, string name, int CurrentWeapon, int MaxHealth, int CurrentHealth)
+    public Player(int currentLocation, string name, int currentWeapon, int maxHealth, int currentHealth)
     {
-        CurrentLocation = CurrentLocation;
+        CurrentLocation = currentLocation;
         Name = name;
-        CurrentWeapon = CurrentWeapon;
-        MaxHealth = MaxHealth;
-        CurrentHealth = CurrentHealth;
+        CurrentWeapon = currentWeapon;
+        MaxHealth = maxHealth;
+        CurrentHealth = currentHealth;
     }
 }

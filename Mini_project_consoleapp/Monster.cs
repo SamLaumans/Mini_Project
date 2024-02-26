@@ -1,17 +1,18 @@
 public class Monster
 {
-    public int Id ;
+    public int ID ;
     public string Name ;
     public int CurrentHealth ;
+    public int MaxHealth ;
     public int Attack ;
     public int Defense ;
 
-    public Monster(int id, string name, int CurrentHealth, int MaxHealth, int attack, int defense)
+    public Monster(int id, string name, int currenthealth, int maxhealth, int attack, int defense)
     {
-        Id = id;
+        ID = id;
         Name = name;
-        CurrentHealth = CurrentHealth;
-        MaxHealth = MaxHealth;
+        CurrentHealth = currenthealth;
+        MaxHealth = maxhealth;
         Attack = attack;
         Defense = defense;
     }

@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samla\\.nuget\\packages\\": {}
+    "C:\\Users\\pugge\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samla\\OneDrive\\Bureaublad\\HR-1048748\\project-b\\Mini_Project\\Mini_project_consoleapp\\Mini_project_consoleapp.csproj",
+      "projectUniqueName": "C:\\Semester 2\\mini project\\Mini_Project\\Mini_Project\\Mini_Project\\Mini_project_consoleapp\\Mini_project_consoleapp.csproj",
       "projectName": "Mini_project_consoleapp",
-      "projectPath": "C:\\Users\\samla\\OneDrive\\Bureaublad\\HR-1048748\\project-b\\Mini_Project\\Mini_project_consoleapp\\Mini_project_consoleapp.csproj",
-      "packagesPath": "C:\\Users\\samla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samla\\OneDrive\\Bureaublad\\HR-1048748\\project-b\\Mini_Project\\Mini_project_consoleapp\\obj\\",
+      "projectPath": "C:\\Semester 2\\mini project\\Mini_Project\\Mini_Project\\Mini_Project\\Mini_project_consoleapp\\Mini_project_consoleapp.csproj",
+      "packagesPath": "C:\\Users\\pugge\\.nuget\\packages\\",
+      "outputPath": "C:\\Semester 2\\mini project\\Mini_Project\\Mini_Project\\Mini_Project\\Mini_project_consoleapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pugge\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
